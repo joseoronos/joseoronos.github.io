@@ -51,16 +51,16 @@ html, body {
    padding-top: 200px;
 }
 
-.index-bg a:link {
+.index-bg a:link, .navigation a:link {
    color: inherit;
    text-decoration: none;
 }
 
-.index-bg a:visited {
+.index-bg a:visited, .navigation a:visited {
    color: inherit;
 }
 
-.index-bg a:hover {
+.index-bg a:hover, .navigation a:hover {
    text-decoration: underline;
 }
 
