@@ -1,3 +1,28 @@
 body {
-    padding-top: 65px;
+    font-family: 'Manrope', sans-serif !important;
+}
+
+.btn-black {
+    background: black;
+    color: white;
+}
+
+.bg-light-grey {
+    background-color: #F2F2F2;
+}
+
+.rounded-12 {
+    border-radius: 12px !important;
+}
+
+.btn-black:hover {
+    color: white;
+}
+
+.fw-medium {
+    font-weight: 500 !important;
+}
+
+.ls-normal {
+    letter-spacing: -0.02em !important;
 }
